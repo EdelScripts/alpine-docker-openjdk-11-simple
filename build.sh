@@ -1,0 +1,1 @@
+docker build -t kolegran/alpine-docker-opendjk-11:latest .
